@@ -8,4 +8,4 @@ Zum Ausprobieren im Browser — ohne Installation:
 - [lifeKI](https://github.com/MarkoVigele/lifeKI) — Particle-Life. [Live](https://markovigele.github.io/lifeKI/)
 - [Aether](https://github.com/MarkoVigele/aether) — Partikelfeld. [Live](https://markovigele.github.io/aether/)
 
-Tasten stehen in jedem README unter *In der Anwendung*.
+
