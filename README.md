@@ -1,8 +1,3 @@
-# GitHub Profil README — Gegenentwurf 2026-09-08 (Marko-Korrektur)
-
-Kein Grok-Bot. Kein Close-Block.
-
-```md
 # INGENIUMOWL
 
 Entwickler in Österreich. Sims und Tools.
@@ -32,7 +27,3 @@ Partikel mit Effekten, Steuerung und Presets. Direkt im Browser.
 [Live](https://markovigele.github.io/lumina/) · [Repo](https://github.com/MarkoVigele/lumina)
 
 <a href="https://markovigele.github.io/lumina/"><img src="https://raw.githubusercontent.com/MarkoVigele/lumina/main/docs/lumina.png" alt="Lumina" width="280"></a>
-```
-
-## Status
-SETZEN Marko 2026-09-08 — Forge PR.
