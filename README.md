@@ -18,7 +18,7 @@ Regeln setzen, zusehen was passiert. Im Browser.
 
 [Live](https://markovigele.github.io/lifeKI/) · [Repo](https://github.com/MarkoVigele/lifeKI)
 
-<a href="https://markovigele.github.io/lifeKI/"><img src="https://raw.githubusercontent.com/MarkoVigele/lifeKI/main/docs/lichtung.png" alt="lifeKI" width="280"></a>
+<a href="https://markovigele.github.io/lifeKI/"><img src="https://raw.githubusercontent.com/MarkoVigele/lifeKI/main/docs/lichtung.png" alt="lifeKI" width="560"></a>
 
 ### Lumina
 
@@ -26,4 +26,4 @@ Partikel mit Effekten, Steuerung und Presets. Direkt im Browser.
 
 [Live](https://markovigele.github.io/lumina/) · [Repo](https://github.com/MarkoVigele/lumina)
 
-<a href="https://markovigele.github.io/lumina/"><img src="https://raw.githubusercontent.com/MarkoVigele/lumina/main/docs/lumina.png" alt="Lumina" width="280"></a>
+<a href="https://markovigele.github.io/lumina/"><img src="https://raw.githubusercontent.com/MarkoVigele/lumina/main/docs/lumina.png" alt="Lumina" width="560"></a>
