@@ -10,7 +10,7 @@ Lebendiges Partikelfeld im Browser — auch am Handy. Individualisiere die Simul
 
 [Live](https://markovigele.github.io/aether/) · [Repo](https://github.com/MarkoVigele/aether)
 
-[![Aether](docs/aether-hero.jpg)](https://markovigele.github.io/aether/)
+<a href="https://markovigele.github.io/aether/"><img src="docs/aether-hero.jpg" alt="Aether" width="280"></a>
 
 ### lifeKI
 
@@ -18,7 +18,7 @@ Simuliere Leben im Browser oder am Handy. Regeln setzen — Veränderungen beoba
 
 [Live](https://markovigele.github.io/lifeKI/) · [Repo](https://github.com/MarkoVigele/lifeKI)
 
-[![lifeKI](https://raw.githubusercontent.com/MarkoVigele/lifeKI/main/docs/lichtung.png)](https://markovigele.github.io/lifeKI/)
+<a href="https://markovigele.github.io/lifeKI/"><img src="https://raw.githubusercontent.com/MarkoVigele/lifeKI/main/docs/lichtung.png" alt="lifeKI" width="280"></a>
 
 ### Lumina
 
@@ -26,7 +26,7 @@ Fortschrittlicher Partikelsimulator mit visuellen Effekten und innovativen Inter
 
 [Live](https://markovigele.github.io/lumina/) · [Repo](https://github.com/MarkoVigele/lumina)
 
-[![Lumina](https://raw.githubusercontent.com/MarkoVigele/lumina/main/docs/lumina.png)](https://markovigele.github.io/lumina/)
+<a href="https://markovigele.github.io/lumina/"><img src="https://raw.githubusercontent.com/MarkoVigele/lumina/main/docs/lumina.png" alt="Lumina" width="280"></a>
 
 ---
 
