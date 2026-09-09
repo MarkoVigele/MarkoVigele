@@ -2,7 +2,6 @@
 
 Entwickler in Österreich. Sims und Tools.
 
-Drei Sims im Browser. Kein Install.
 
 ### Aether
 
